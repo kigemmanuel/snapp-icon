@@ -1,0 +1,32 @@
+{
+  "name": "@snapp/snapp-icons",
+  "version": "1.0.0",
+  "description": "Icon library for Snapp framework with FontAwesome support (more icon libraries coming soon)",
+  "main": "src/index.js",
+  "scripts": {
+    "minify": "node minify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kigemmanuel/snapp-icon.git"
+  },
+  "keywords": [
+    "snapp",
+    "icons",
+    "fontawesome",
+    "svg",
+    "components",
+    "snapp-framework",
+    "jsx"
+  ],
+  "author": "kigemmanuel",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kigemmanuel/snapp-icon/issues"
+  },
+  "homepage": "https://github.com/kigemmanuel/snapp-icon#readme",
+  "devDependencies": {
+    "terser": "^5.44.0"
+  }
+}
